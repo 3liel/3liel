@@ -18,7 +18,7 @@
   <img src="https://github.com/3liel/3liel/blob/main/Images/gengar-pokemon.gif" width="250">
 </p>
 <img src="https://github.com/3liel/3liel/blob/main/Images/animated-line-image-0379.gif" width="1100">
-<img align="right" width="400" alt="tercer_impacto" src="https://github.com/3liel/3liel/blob/main/Images/images.webp"/>
+<img align="right" width="450" alt="tercer_impacto" src="https://github.com/3liel/3liel/blob/main/Images/images.webp"/>
 <div>
     <h2>ABOUT ME</h2>
         <pre align="center">
