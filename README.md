@@ -27,11 +27,17 @@
 I'm a Front-end developer in progress
 ----------------------------------
 🌐 Enthusiast of design creation devoted to Front-end
+
 🎨 I enjoy capturing ideas and turning them into reality
+
 ☕ Oracle Next Education Frontend Junior
+
 🎧 Listen to music 24/7
+
 📹 I like to edit videos
+
 👾 Gamer
+
 ⭐ Mindfulness
 ----------------------------------
 ```
